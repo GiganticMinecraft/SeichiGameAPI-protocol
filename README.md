@@ -1,3 +1,7 @@
+# DEPRECATED
+
+[seichi-game-data-protocol](https://github.com/GiganticMinecraft/seichi-game-data-protocol) を利用してください。
+
 # seichi-game-api-protocol
 
 [seichi-game-api](https://github.com/GiganticMinecraft/seichi-game-api)が公開しているgRPC APIのプロトコル定義。
